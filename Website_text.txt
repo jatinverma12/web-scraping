@@ -1,0 +1,23 @@
+MIDAS@IIITDToggle navigationResearchTeamPapersBlogOpeningsMoreNewsEventsMIDASis a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information. MIDAS stands forMultimodal Digital Media Analysis Laband it is founded by Dr. Rajiv Ratn Shah. Dr. Shah is assistant professor in the department of Computer Science and Engineering (jointly appointed with the department of Human Centered Design) at IIIT-Delhi. Our work at MIDAS includes Machine Learning, Multimedia Content Processing, Natural Language Processing, Image Processing, Multimodal Computing, Data Science, Social Media Computing, and the Internet of Things. We believe in multidisciplinary collabrative research and work closely with eminent researchers from National University of Singapore (NUS), National Institute of Informatics (NII), Nanyang Technological University (NTU), Bloomberg, Arkana Lab, etc.NewsWe are on FB and Twiter nowWe are on Facebook and Twitter now.www.facebook.com/midasIIITDandwww.twitter.com/midasIIITDPosted
+					23 Jul 2018
+					
+					byRajivVaishali got placedCongratulations Vaishali for getting placed in Qualcomm.Posted
+					15 Jul 2018
+					
+					byRajivPaper accepted at ACMMM2018A paper titled, “Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed”, got accepted in the Brave New Idea track of ACM Multimedia 2018 (approx 8% acceptance rate). Congratulation to authors:Yaman Kumar,Mayank Aggarwal,Pratham Nawal,Shin’ichi Satoh,Rajiv Ratn Shah,Roger Zimmerman.Posted
+					15 Jul 2018
+					
+					byRajivPaper accepted at ACMMM2018MIDAS founder and collaborators,Rajiv Ratn Shah,Yifang Yin, andRoger Zimmermannpublished a full paper titled, “Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization”, in the ACM Multimedia 2018, a premier conference for multimedia research.Posted
+					01 Jul 2018
+					
+					byRajivPostsMind Your LanguagePosted
+					29 Jan 2019
+					
+					byRaghavKiki Challenge Dataset ReleasePosted
+					26 Sep 2018
+					
+					byRaghavPapersDid you offend me? Classification of Offensive Tweets in Hinglish LanguagePublished
+					13 Nov 2018Get IT Scored using AutoSAS - An Automated System for Scoring Short AnswersPublished
+					13 Nov 2018Identification of Emergency Blood Donation Request on TwitterPublished
+					12 Nov 2018Exploring and Learning Suicidal Ideation Connotations in Social Media with DLPublished
+					11 Nov 2018Indraprastha Institute of Information Technology, DelhiAboutContact
